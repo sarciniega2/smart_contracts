@@ -16,7 +16,7 @@ contract AssociateProfitSplitter {
         return address(this).balance;
     }
 
-    function deposit(uint amount) public payable {
+    function deposit() public payable {
         uint amount = msg.value/3
 
         employee_one.transfer(amount);
