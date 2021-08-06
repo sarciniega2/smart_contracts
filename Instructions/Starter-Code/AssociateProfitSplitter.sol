@@ -30,5 +30,7 @@ contract AssociateProfitSplitter {
 
     function() external payable{
         deposit();
+    //^Not sure if I did this function the right way but it will have to do for now
+    //^This is supposed to be the fallback function
     }
 }
