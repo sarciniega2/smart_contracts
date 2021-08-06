@@ -1,4 +1,6 @@
 # smart_contracts
+For this homework, I only completed Level 1.
+
 Below is a screenshot of the contract configuration for the level one assignment. After compilation, we switch the enviroment to Injected Web3 so that Metamask and Ganache are connected to the contract. Select the account, value and the paste the first three addresses in the ganache workspace under Deploy. Click "transact" and you should have the transaction recorded. 
 ![Remix](images/remix.png)
 
